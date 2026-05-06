@@ -1,0 +1,10 @@
+venv/
+__pycache__/
+*.pkl
+*.faiss
+*.db
+*.pdf
+*.csv
+*.xls
+.env
+*.pdf
